@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Patikadev_RestfulApi.props" />
+</Project>
