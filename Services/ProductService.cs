@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Patikadev_RestfulApi.Context;
-using Patikadev_RestfulApi.Interfaces;
 using Patikadev_RestfulApi.Domain;
+using Patikadev_RestfulApi.Services.Interfaces;
 
 namespace Patikadev_RestfulApi.Service;
 

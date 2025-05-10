@@ -9,6 +9,7 @@ public class AppDbContext : DbContext
     {
     }
 
+    public DbSet<Book> Books { get; set; }
     public DbSet<Product> Products { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)

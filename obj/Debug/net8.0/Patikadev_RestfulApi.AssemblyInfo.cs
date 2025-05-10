@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Patikadev_RestfulApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b082a7b346d9c212296ea662f3a84eb2ed4d4ce4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf715c128843c00f37382f8255d0d4508b855ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Patikadev_RestfulApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Patikadev_RestfulApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,4 @@
-﻿namespace Patikadev_RestfulApi.Interfaces;
+﻿namespace Patikadev_RestfulApi.Services.Interfaces;
 
 public interface IAuthService
 {

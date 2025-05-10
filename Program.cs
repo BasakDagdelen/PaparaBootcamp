@@ -1,16 +1,14 @@
-using Microsoft.EntityFrameworkCore;
-using Patikadev_RestfulApi;
-using Patikadev_RestfulApi.Context;
 using Patikadev_RestfulApi.Extensions;
-using Patikadev_RestfulApi.Interfaces;
 using Patikadev_RestfulApi.Middleware;
-using Patikadev_RestfulApi.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-builder.Services.ApplicationExtensions(builder.Configuration);    // extensions
+builder.Services.AddDatabaseContext(builder.Configuration)   // extension method
+    .AddValidationConfiguration()
+    .AddServiceConfiguration()
+    .AddMapperConfiguration();    
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

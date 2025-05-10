@@ -1,7 +1,7 @@
 ﻿using Patikadev_RestfulApi.Domain;
 
 
-namespace Patikadev_RestfulApi.Interfaces;
+namespace Patikadev_RestfulApi.Services.Interfaces;
 
 public interface IProductService
 {

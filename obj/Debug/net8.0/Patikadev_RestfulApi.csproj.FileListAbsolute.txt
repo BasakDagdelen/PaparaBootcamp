@@ -5,9 +5,15 @@ D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Patikadev_Restf
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Patikadev_RestfulApi.runtimeconfig.json
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Patikadev_RestfulApi.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Patikadev_RestfulApi.pdb
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\AutoMapper.dll
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Azure.Core.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\FluentValidation.dll
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Humanizer.dll
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -33,6 +39,7 @@ D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.OpenA
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -121,6 +128,7 @@ D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_Restf
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_RestfulApi.csproj.CoreCompileInputs.cache
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_RestfulApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_RestfulApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_RestfulApi.sourcelink.json
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\staticwebassets.build.json
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\staticwebassets.development.json
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\staticwebassets\msbuild.Patikadev_RestfulApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -135,7 +143,3 @@ D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\refint\Patikade
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_RestfulApi.pdb
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_RestfulApi.genruntimeconfig.cache
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\ref\Patikadev_RestfulApi.dll
-D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_RestfulApi.sourcelink.json
