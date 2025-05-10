@@ -1,9 +1,10 @@
-﻿namespace Patikadev_RestfulApi.DTO;
+﻿namespace Patikadev_RestfulApi.DTO.Response;
 
-public class BookRequest
+public class BookResponse
 {
+    public Guid Id { get; set; }
     public string Name { get; set; }
-    public string Author { get; set; }
+    //public string Author { get; set; }
     public string Description { get; set; }
     public decimal Price { get; set; }
     public string Image { get; set; }

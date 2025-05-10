@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB96E9B0-403A-4D28-A933-E55886725F5C}|Patikadev_RestfulApi.csproj|d:\\belgelerim\\c# projeleri\\patikadev_restfulapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB96E9B0-403A-4D28-A933-E55886725F5C}|Patikadev_RestfulApi.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB96E9B0-403A-4D28-A933-E55886725F5C}|Patikadev_RestfulApi.csproj|d:\\belgelerim\\c# projeleri\\patikadev_restfulapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB96E9B0-403A-4D28-A933-E55886725F5C}|Patikadev_RestfulApi.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB96E9B0-403A-4D28-A933-E55886725F5C}|Patikadev_RestfulApi.csproj|d:\\belgelerim\\c# projeleri\\patikadev_restfulapi\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB96E9B0-403A-4D28-A933-E55886725F5C}|Patikadev_RestfulApi.csproj|solutionrelative:services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -103,14 +107,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
-              "ToolTip": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Controllers\\BookController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAkwEoAAAAeAAAA",
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:08:14.094Z",
+              "WhenOpened": "2025-05-10T22:06:35.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthorService.cs",
+              "ToolTip": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\Services\\AuthorService.cs",
+              "RelativeToolTip": "Services\\AuthorService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T22:02:49.734Z",
               "EditorCaption": ""
             }
           ]

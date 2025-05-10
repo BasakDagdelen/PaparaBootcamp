@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Patikadev_RestfulApi.Domain;
-using Microsoft.AspNetCore.Authorization;
 using Patikadev_RestfulApi.Services.Interfaces;
 
 namespace Patikadev_RestfulApi.Controllers;

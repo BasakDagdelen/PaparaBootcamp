@@ -31,7 +31,9 @@ public static class ServiceCollectionExtensions
 
     public static IServiceCollection AddServiceConfiguration(this IServiceCollection services)
     {
+        services.AddScoped<IAuthorService, AuthorService>();
         services.AddScoped<IBookService, BookService>();
+        services.AddScoped<IGenreService, GenreService>();
         services.AddScoped<IProductService, ProductService>();
         services.AddScoped<IAuthService, AuthService>();
 

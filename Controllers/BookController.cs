@@ -2,7 +2,8 @@
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
 using Patikadev_RestfulApi.Domain;
-using Patikadev_RestfulApi.DTO;
+using Patikadev_RestfulApi.DTO.Request;
+using Patikadev_RestfulApi.DTO.Response;
 using Patikadev_RestfulApi.Services.Interfaces;
 using Patikadev_RestfulApi.Services.Validations;
 
