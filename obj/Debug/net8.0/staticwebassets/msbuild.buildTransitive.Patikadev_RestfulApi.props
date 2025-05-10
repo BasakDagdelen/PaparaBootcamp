@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Patikadev_RestfulApi.props" />
-</Project>
