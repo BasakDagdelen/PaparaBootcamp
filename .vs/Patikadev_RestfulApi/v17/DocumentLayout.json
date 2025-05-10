@@ -1,15 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB96E9B0-403A-4D28-A933-E55886725F5C}|Patikadev_RestfulApi.csproj|d:\\belgelerim\\c# projeleri\\patikadev_restfulapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BB96E9B0-403A-4D28-A933-E55886725F5C}|Patikadev_RestfulApi.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 219,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,6 +99,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-10T13:28:32.914Z",
+              "EditorCaption": ""
             }
           ]
         }

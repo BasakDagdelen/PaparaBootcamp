@@ -138,3 +138,4 @@ D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\ref\Patikadev_R
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Belgelerim\C# Projeleri\Patikadev_RestfulApi\obj\Debug\net8.0\Patikadev_RestfulApi.sourcelink.json
