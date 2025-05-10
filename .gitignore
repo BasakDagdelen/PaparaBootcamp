@@ -34,6 +34,7 @@ artifacts/
 *.db-shm
 *.db-wal
 
+
 ## EF Core Migrations metadata
 **/Migrations/*Designer.cs
 **/Migrations/*.csproj.EntityFrameworkCore.*
@@ -72,3 +73,4 @@ _ReSharper*/
 # OS-specific
 .DS_Store
 Thumbs.db
+".vs/" 
