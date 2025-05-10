@@ -3,9 +3,9 @@ using Patikadev_RestfulApi.DTO;
 
 namespace Patikadev_RestfulApi.Services.Validations;
 
-public class BookValidator : AbstractValidator<BookRequest>
+public class UpdateBookValidator : AbstractValidator<BookRequest>
 {
-    public BookValidator()
+    public UpdateBookValidator()
     {
         RuleFor(x => x.Name).NotEmpty().WithMessage("Book name cannot be empty")
             .MinimumLength(3).WithMessage("Book name must be at least 3 characters long")

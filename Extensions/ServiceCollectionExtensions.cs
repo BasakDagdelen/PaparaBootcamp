@@ -25,7 +25,7 @@ public static class ServiceCollectionExtensions
     public static IServiceCollection AddValidationConfiguration(this IServiceCollection services)
     {
         services.AddControllers().AddFluentValidation(
-            x => x.RegisterValidatorsFromAssemblyContaining<BookValidator>());
+            x => x.RegisterValidatorsFromAssemblyContaining<CreateBookValidator>());
         return services;
     }
 

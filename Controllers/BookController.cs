@@ -1,8 +1,10 @@
 ﻿using AutoMapper;
+using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
 using Patikadev_RestfulApi.Domain;
 using Patikadev_RestfulApi.DTO;
 using Patikadev_RestfulApi.Services.Interfaces;
+using Patikadev_RestfulApi.Services.Validations;
 
 namespace Patikadev_RestfulApi.Controllers;
 
@@ -38,6 +40,9 @@ public class BookController : ControllerBase
     [HttpPost]
     public async Task<ActionResult<BookResponse>> Create([FromBody] BookRequest request)
     {
+        CreateBookValidator validationRules = new();
+        ValidationResult validationResult = validationRules.Validate(request);
+       
         if (!ModelState.IsValid)
             return BadRequest(ModelState);
 
@@ -50,6 +55,9 @@ public class BookController : ControllerBase
     [HttpPut("{id}")]
     public async Task<ActionResult<BookResponse>> Update(Guid id, [FromBody] BookRequest request)
     {
+        UpdateBookValidator validationRules = new();
+        ValidationResult validationResult = validationRules.Validate(request);
+
         if (!ModelState.IsValid)
             return BadRequest(ModelState);
 
