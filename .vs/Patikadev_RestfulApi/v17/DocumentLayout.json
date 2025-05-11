@@ -1,11 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi_Test\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -13,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,17 +94,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi_Test\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\Patikadev_RestfulApi_Test\\Class1.cs",
-              "ToolTip": "D:\\Belgelerim\\C# Projeleri\\Patikadev_RestfulApi_Test\\Class1.cs",
-              "RelativeToolTip": "..\\Patikadev_RestfulApi_Test\\Class1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T11:47:22.795Z"
             }
           ]
         }
