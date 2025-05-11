@@ -2,10 +2,9 @@
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using Patikadev_RestfulApi.Context;
-using Patikadev_RestfulApi.Mapping;
-using Patikadev_RestfulApi.Service;
-using Patikadev_RestfulApi.Services;
+using Patikadev_RestfulApi.Services.Mapping;
 using Patikadev_RestfulApi.Services.Interfaces;
+using Patikadev_RestfulApi.Services.Services;
 using Patikadev_RestfulApi.Services.Validations;
 
 namespace Patikadev_RestfulApi.Extensions;

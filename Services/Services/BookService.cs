@@ -3,7 +3,7 @@ using Patikadev_RestfulApi.Context;
 using Patikadev_RestfulApi.Domain;
 using Patikadev_RestfulApi.Services.Interfaces;
 
-namespace Patikadev_RestfulApi.Services;
+namespace Patikadev_RestfulApi.Services.Services;
 
 public class BookService : IBookService
 {
@@ -37,8 +37,8 @@ public class BookService : IBookService
 
     public async Task<Book?> GetBookByIdAsync(Guid id)
     {
-        var book =  await _context.Books.Where(p => p.Id == id && p.IsActive).FirstOrDefaultAsync();
-        if(book is null)
+        var book = await _context.Books.Where(p => p.Id == id && p.IsActive).FirstOrDefaultAsync();
+        if (book is null)
             return null;
 
         return book;

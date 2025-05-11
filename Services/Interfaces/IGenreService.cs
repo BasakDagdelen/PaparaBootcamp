@@ -1,5 +1,4 @@
 ﻿using Patikadev_RestfulApi.Domain;
-using Patikadev_RestfulApi.DTO;
 
 namespace Patikadev_RestfulApi.Services.Interfaces;
 

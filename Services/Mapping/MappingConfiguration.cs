@@ -3,7 +3,7 @@ using Patikadev_RestfulApi.Domain;
 using Patikadev_RestfulApi.DTO.Request;
 using Patikadev_RestfulApi.DTO.Response;
 
-namespace Patikadev_RestfulApi.Mapping;
+namespace Patikadev_RestfulApi.Services.Mapping;
 
 public class MappingConfiguration : Profile
 {
